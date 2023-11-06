@@ -13,6 +13,7 @@ namespace ParkingCalculator
             double result = 0;
             // TODO: Uzupełnij implementację kalkulatora opłat za parkowanie
 
+
             return result;
         }
     }
